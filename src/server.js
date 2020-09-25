@@ -1,7 +1,8 @@
 import express from 'express'
 import { json, urlencoded } from 'body-parser'
 import cors from 'cors';
-import contactRouter from './resources/ContactUs/contact.router';
+import { connect } from './utils/database';
+import contactRouter from './resources/Message/message.router';
 import dotenv from 'dotenv';
 
 dotenv.config();
@@ -14,7 +15,7 @@ app.use('/api', contactRouter);
 
 export const start = async () => {
     try {
-        // await connect();
+        await connect();
         app.listen(4000, () => {
             console.log('Server is listening on http://localhost:4000')
         })

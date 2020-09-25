@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="26d89cf2-d3a8-47aa-a80f-13c99d680153" name="Default Changelist" comment="" />
+    <list default="true" id="26d89cf2-d3a8-47aa-a80f-13c99d680153" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/resources/Message/message.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/Message/message.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/ContactUs/contact.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/ContactUs/contact.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/ContactUs/contact.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/Message/message.router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/sendEmail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/sendEmail.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +43,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hsGurMimr4ur5wXifHp8aJQqX7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,17 +81,37 @@
       <workItem from="1600792613245" duration="3436000" />
       <workItem from="1600837841339" duration="599000" />
       <workItem from="1600864704672" duration="9387000" />
-      <workItem from="1600926473573" duration="4892000" />
+      <workItem from="1600926473573" duration="7271000" />
+      <workItem from="1601017274774" duration="5920000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="683" y="350" width="616" height="404" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601021420769">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="683" y="350" width="616" height="404" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1052@67.27.1853.1052" timestamp="1601021420769" />
     <state x="939" y="385" width="621" height="522" key="find.popup" timestamp="1600793205285">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="939" y="385" width="621" height="522" key="find.popup/67.27.1853.1052@67.27.1853.1052" timestamp="1600793205285" />
+    <state x="656" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1600941645145">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="656" y="251" width="672" height="678" key="search.everywhere.popup/67.27.1853.1052@67.27.1853.1052" timestamp="1600941645145" />
   </component>
 </project>
