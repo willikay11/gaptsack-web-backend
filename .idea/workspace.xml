@@ -20,16 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26d89cf2-d3a8-47aa-a80f-13c99d680153" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/resources/Message/message.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/Message/message.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/azure-gapstack-website-tls.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/ContactUs/contact.controller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/ContactUs/contact.model.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/ContactUs/contact.router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/Message/message.router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/database.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/sendEmail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/sendEmail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/azure-gapstack-website-backend.yml" beforeDir="false" afterPath="$PROJECT_DIR$/azure-gapstack-website-backend.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +49,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../frontend" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -82,7 +75,7 @@
       <workItem from="1600837841339" duration="599000" />
       <workItem from="1600864704672" duration="9387000" />
       <workItem from="1600926473573" duration="7271000" />
-      <workItem from="1601017274774" duration="5920000" />
+      <workItem from="1601017274774" duration="34509000" />
     </task>
     <servers />
   </component>
@@ -105,6 +98,10 @@
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
     <state x="683" y="350" width="616" height="404" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1052@67.27.1853.1052" timestamp="1601021420769" />
+    <state x="779" y="298" width="424" height="492" key="FileChooserDialogImpl" timestamp="1601098965586">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="779" y="298" width="424" height="492" key="FileChooserDialogImpl/67.27.1853.1052@67.27.1853.1052" timestamp="1601098965586" />
     <state x="939" y="385" width="621" height="522" key="find.popup" timestamp="1600793205285">
       <screen x="67" y="27" width="1853" height="1052" />
     </state>
