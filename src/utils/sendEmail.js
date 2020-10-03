@@ -1,11 +1,10 @@
 import nodemailer from 'nodemailer';
-import EmailTemplate from 'email-templates';
 import HandleBars from 'nodemailer-express-handlebars';
 import path from 'path';
 /*
  * Send email to user
  */
-const SendEmail = async (name, email, subject, message) => {
+const sendEmail = async (name, email, subject, message) => {
     try {
         const transporter = nodemailer.createTransport({
             host: process.env.MAIL_HOST,
@@ -25,7 +24,7 @@ const SendEmail = async (name, email, subject, message) => {
         }));
 
         const mailOptions = {
-            from: 'info@gapstack.com',
+            from: 'william.kamuyu@gapstack.com',
             to: 'william.kamuyu@gapstack.com',
             subject: 'New Message',
             template: 'test',
@@ -48,4 +47,4 @@ const SendEmail = async (name, email, subject, message) => {
 
 }
 
-export default SendEmail;
+export { sendEmail };

@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { storeContactUsMessage } from './contact.controller';
+import { storeContactUsMessage } from './message.controller';
 
 const router = Router();
 
